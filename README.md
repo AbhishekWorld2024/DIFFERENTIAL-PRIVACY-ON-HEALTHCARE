@@ -1,4 +1,4 @@
-we present a comprehensive framework that integrates state-of-the-art
+->we present a comprehensive framework that integrates state-of-the-art
 privacy-preserving techniques, addressing the critical privacy concern in healthcare data. As<br>
 healthcare records become more digitally digitized, strong privacy safeguards are becoming
 essential to safeguard confidential data and guarantee moral standards are followed.<br>
